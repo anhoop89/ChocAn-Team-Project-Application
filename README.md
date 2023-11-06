@@ -1,5 +1,7 @@
 # ChocAn
 Group project for CS 314 at Portland State University
+Team: Anh Ho, Layla Smith, Dan Ha, Ben Anderson, Ryan Niiya, Linh Nguyen, Thomas Brooks
+
 
 ## 1 Introduction
 
